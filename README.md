@@ -63,7 +63,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
   </div>
   
 ### Contribution Graph:
-[![Masangomakuda GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Masangomaikuda)](https://github.com/Masangomakuda/github-readme-activity-graph)
+[![Masangomakuda GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Masangomakuda)](https://github.com/Masangomakuda/github-readme-activity-graph)
   
   <div>
    
